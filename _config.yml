@@ -33,7 +33,7 @@ color:
 footer:
   copyright: 小龙女
   location: 地址
-#  social: Around the Web
+  social: Around the Web
 #  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -51,8 +51,7 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 梦幻西游手游 - 安卓版 - 花样年华
-  - line: 门派：普陀山
+  - line: 梦幻西游手游 - 安卓版 - 花样年华服务器
 
 # Credits content
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
